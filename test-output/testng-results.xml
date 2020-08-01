@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5840" started-at="2020-05-05T08:03:29Z" finished-at="2020-05-05T08:03:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5840" started-at="2020-05-05T08:03:29Z" finished-at="2020-05-05T08:03:35Z">
+      <class name="restAssuredBasics.DynamicJson">
+        <test-method status="PASS" signature="ADddBook(java.lang.String, java.lang.String)[pri:0, instance:restAssuredBasics.DynamicJson@5f341870]" name="ADddBook" duration-ms="5180" started-at="2020-05-05T08:03:29Z" data-provider="getData" finished-at="2020-05-05T08:03:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hhjhj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[223445678]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ADddBook -->
+        <test-method status="PASS" signature="ADddBook(java.lang.String, java.lang.String)[pri:0, instance:restAssuredBasics.DynamicJson@5f341870]" name="ADddBook" duration-ms="305" started-at="2020-05-05T08:03:34Z" data-provider="getData" finished-at="2020-05-05T08:03:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[cnmmvdjklf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asa2432435]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ADddBook -->
+        <test-method status="PASS" signature="ADddBook(java.lang.String, java.lang.String)[pri:0, instance:restAssuredBasics.DynamicJson@5f341870]" name="ADddBook" duration-ms="285" started-at="2020-05-05T08:03:34Z" data-provider="getData" finished-at="2020-05-05T08:03:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fiehfeinka]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7849839des]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ADddBook -->
+      </class> <!-- restAssuredBasics.DynamicJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
